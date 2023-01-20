@@ -13,7 +13,7 @@ from PIL import Image, ImageDraw
 
 
 bot = telebot.TeleBot(config.TOKEN_API)
-my_id = config.USER_ID
+my_id = config.CHAT_ID
 
 user_dict = {}
 
