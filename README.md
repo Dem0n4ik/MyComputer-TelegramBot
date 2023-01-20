@@ -2,14 +2,14 @@
 
 MyComputer - is a bot that allows you to control your computer, such as:
  
- • turn off the PC  🔴
+    • turn off the PC  🔴
  
- • restart the PC  🔄
+    • restart the PC  🔄
  
- • take a screenshot  📷
+    • take a screenshot  📷
  
- • execute cmd-commands  ✅
+    • execute cmd-commands  ✅
  
- • collect information about the PC  🖥
+    • collect information about the PC  🖥
  
- • send a message that is displayed on the screen  📩
+    • send a message that is displayed on the screen  📩
